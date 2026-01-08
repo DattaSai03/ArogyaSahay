@@ -2,7 +2,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { SYSTEM_INSTRUCTION } from "../constants";
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: /*process.env.API_KEY*/ AIzaSyAWJKZO_XwEAsBP-gRsf8ldaE5SQap0w-s });
 
 export class GeminiService {
   async sendMessage(prompt: string, history: { role: 'user' | 'model', text: string }[] = [], customInstruction?: string) {
