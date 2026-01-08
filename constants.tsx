@@ -4,7 +4,7 @@ import { Activity, Droplets, Thermometer, ShieldCheck } from 'lucide-react';
 
 export const APP_NAME = "ArogyaSahay";
 // The latest high-tech logo provided by the user (A-leaf/gear/shield with branding)
-export const LOGO_URL = "https://github.com/DattaSai03/ArogyaSahay/blob/main/WhatsApp%20Image%202026-01-08%20at%208.05.22%20PM.jpeg";
+export const LOGO_URL = "https://raw.githubusercontent.com/DattaSai03/ArogyaSahay/main/WhatsApp%20Image%202026-01-08%20at%208.05.22%20PM.jpeg";
   //"https://storage.googleapis.com/static.replit.com/content-creation/1740212450893-6m2r8o.pn"; 
 
 export const CHRONIC_DISEASES = [
