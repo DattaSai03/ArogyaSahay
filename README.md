@@ -10,20 +10,11 @@
 
 📌 Overview
 
-Arogya Sahay is a AI-powered healthcare assistance platform developed for **JHU VITB Health Hack 2025** and as part of an **Entrepreneurship course project** at college.
+Arogya Sahay is an AI-powered healthcare assistance platform designed to help users manage health conditions, track medications, and receive AI-based health insights. The platform integrates AI health analysis, symptom checking, chronic disease management, and wellness coaching into a single digital system. 
 
-The platform explores how Artificial Intelligence can support individuals in managing their health by combining AI-assisted health analysis, symptom checking, medication tracking, chronic disease management, and wellness guidance into a single, user-friendly application.
+✨ The goal is to make healthcare guidance accessible, intelligent, and personalized.
 
-The project was created to:
-
-🏆 Participate in JHU VITB Health Hack 2025.
-🎓 Apply innovation and product development concepts as part of an Entrepreneurship course project.
-🤖 Explore AI-powered healthcare solutions and modern web development tools.
-💡 Design a prototype that demonstrates how intelligent digital assistants can improve healthcare accessibility and user engagement.
-
-✨ Goal: To make healthcare guidance more accessible, intelligent, and personalized through AI-driven technologies.
-
-Note: Arogya Sahay is a prototype developed for learning, innovation, and hackathon demonstration. It is not intended to replace professional medical advice, diagnosis, or treatment. Some AI-powered features are conceptual or under active development.
+💡 Developed as a prototype to explore AI-powered healthcare solutions, showcased at JHU VITB Health Hack 2025, and further refined as part of my Entrepreneurship course project.
 
 🎥 Platform Screenshots
 
